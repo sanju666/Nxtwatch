@@ -1,0 +1,18 @@
+.game-video-image {
+  width: 200px;
+  margin-bottom: 8px;
+}
+
+.game-title {
+  color: #ffffff;
+  font-size: 22px;
+}
+
+.game-container p {
+  color: #7e858e;
+  font-size: 19px;
+  font-weight: 600;
+}
+.game-item {
+  margin-bottom: 18px;
+}

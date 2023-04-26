@@ -1,0 +1,39 @@
+.popup-container {
+  text-align: center;
+}
+
+.logout-description {
+  font-size: 20px;
+  font-weight: 400;
+  color: #ffffff;
+  margin: 8px;
+  font-family: 'Roboto';
+}
+.logout-light-description {
+  font-size: 20px;
+  font-weight: 400;
+  color: #7c69e9;
+  margin: 8px;
+  font-family: 'Roboto';
+}
+
+.trigger-button {
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  color: #909090;
+  padding: 8px 15px 8px 15px;
+  margin: 18px;
+  background-color: transparent;
+
+  border: 1px solid;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+}
+.poplogout {
+  background-color: #7c69e9;
+  border: none;
+  color: #ffffff;
+  margin-right: 10px;
+}

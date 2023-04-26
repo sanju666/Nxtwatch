@@ -1,0 +1,19 @@
+.saved-item {
+  display: flex;
+  margin: 23px;
+  width: 70%;
+}
+.saved-item-image {
+  width: 50%;
+  margin-right: 12px;
+}
+.saved-item-title {
+  color: #ffffff;
+  font-size: 24px;
+}
+.saved-item-name {
+  color: #7e858e;
+}
+.saved-item-first-section {
+  width: 50%;
+}

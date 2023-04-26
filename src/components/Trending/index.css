@@ -1,0 +1,46 @@
+.trending-section {
+  display: flex;
+  align-items: center;
+  margin: 0px 40px;
+}
+.trending-page-icon {
+  color: red;
+  font-size: 70px;
+  margin-right: 17px;
+  border-radius: 50%;
+  background-color: #0f0f0f;
+  padding: 12px;
+}
+.trending-icon-header {
+  color: red;
+  font-size: 70px;
+  margin-right: 17px;
+  border-radius: 50%;
+  background-color: #e2e8f0;
+  padding: 12px;
+}
+.trending-header {
+  background-color: #181818;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.trending-right-section {
+  width: 100%;
+}
+
+.all-trend-videos {
+  list-style-type: none;
+  overflow-y: scroll;
+  height: 750px;
+}
+
+.all-trend-videos::-webkit-scrollbar {
+  background: #0f0f0f;
+  width: 10px;
+}
+
+.all-trend-videos::-webkit-scrollbar-thumb {
+  background-color: #909090;
+  border-radius: 10px;
+  border: 1px solid #181818;
+}

@@ -1,0 +1,21 @@
+.trendVideo-container {
+  display: flex;
+}
+
+.trend-profile-title {
+  color: #ffffff;
+  font-size: 25px;
+}
+
+.trend-profile-details p {
+  color: #7e858e;
+  font-size: 19px;
+  font-weight: 600;
+}
+.trend-profile-details {
+  margin-left: 20px;
+}
+
+.trend-item {
+  margin: 30px;
+}

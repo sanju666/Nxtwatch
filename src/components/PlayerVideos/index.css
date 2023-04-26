@@ -1,0 +1,59 @@
+.player-video-container {
+  margin: 20px;
+}
+.likeAndDislike {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+}
+
+.likeAndDislike li {
+  display: flex;
+  align-items: center;
+}
+.common-like-dislike {
+  font-size: 23px;
+  margin-right: 7px;
+}
+
+.common-para {
+  font-size: 20px;
+  margin-right: 16px;
+}
+.comment-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #7e858e;
+}
+.comment-section p {
+  font-size: 18px;
+}
+.about-video {
+  color: #ffffff;
+  font-weight: 400;
+  font-family: 'Roboto';
+}
+.video-title {
+  font-size: 19px;
+  color: #ffffff;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+.video-description {
+  padding-left: 10px;
+  color: #7e858e;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+.line {
+  border: 2px solid #7e858e;
+  margin-bottom: 17px;
+}
+.saved-para {
+  color: #00306e;
+  font-weight: 600;
+}
+.video-desc-title {
+  margin-left: 0px;
+}

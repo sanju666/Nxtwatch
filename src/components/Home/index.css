@@ -1,0 +1,99 @@
+.Home-container {
+  background-color: #0f0f0f;
+}
+
+.home-icon {
+  color: red;
+  font-size: 30px;
+  margin-right: 18px;
+  margin-left: 15px;
+}
+
+.home-first-section {
+  display: flex;
+}
+.home-right-banner {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+  padding: 25px;
+  background-size: cover;
+}
+.home-right-section {
+  width: 100%;
+}
+.home-right-banner p {
+  color: #313131;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-bottom: 62px;
+}
+.home-banner-image-icon {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+  margin-bottom: 43px;
+}
+.home-right-banner button {
+  height: 50px;
+  width: 120px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #000000;
+  background-color: transparent;
+  border: 1px solid #000000;
+}
+.home-banner-close {
+  font-size: 28px;
+  opacity: 0.7;
+}
+.home-banner-nxtwatch {
+  width: 190px;
+}
+.search {
+  border: 2px solid #313131;
+  border-right: none;
+  background-color: transparent;
+  outline: none;
+  height: 40px;
+  color: #ffffff;
+  font-size: 16px;
+  padding-inline-start: 5px;
+  padding-inline-end: 5px;
+  width: 400px;
+}
+.search-icon {
+  font-size: 22px;
+  border: 2px solid #313131;
+  background-color: #313131;
+  color: #909090;
+  height: 40px;
+  position: relative;
+  top: 15px;
+  padding: 6px;
+  width: 70px;
+}
+.home-video-container {
+  padding: 22px;
+}
+.all-video-container {
+  display: flex;
+  flex-wrap: wrap;
+  height: 550px;
+  list-style-type: none;
+  padding-left: 0px;
+  justify-content: space-around;
+
+  overflow: auto;
+}
+
+.all-video-container::-webkit-scrollbar {
+  background: #0f0f0f;
+  width: 10px;
+}
+
+.all-video-container::-webkit-scrollbar-thumb {
+  background-color: #909090;
+  border-radius: 10px;
+  border: 1px solid #181818;
+}

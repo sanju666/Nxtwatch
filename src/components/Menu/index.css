@@ -1,0 +1,40 @@
+.common-icon {
+  color: #424242;
+  font-size: 30px;
+  margin-right: 17px;
+  margin-left: 15px;
+}
+.home-menu-section {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.home-menu-section li {
+  display: flex;
+  align-items: center;
+}
+.home-menu-section li:hover {
+  background-color: #909090;
+}
+
+.social-media-icons {
+  width: 40px;
+  margin-right: 17px;
+}
+.home-contact-us {
+  color: #ffffff;
+}
+
+.home-left-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 240px;
+  min-height: 89vh;
+  background-color: #231f20;
+}
+.home-contact-section {
+  padding-left: 15px;
+}
+.menu-item {
+  text-decoration: none;
+}
